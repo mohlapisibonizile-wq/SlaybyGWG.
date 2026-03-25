@@ -2,8 +2,8 @@ body{background-color: lightcoral;
 	font-family: ariel;
 	font-size: 16;
 	font-color:#bd428b;
-	margin-left:250px;
-	margin-right:450px;
+	margin :0 ;
+	}
 
 	/* Add a black background color to the top navigation */
 .topnav {
