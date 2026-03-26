@@ -22,6 +22,11 @@ body {
   flex: 1; /* makes links evenly spaced */
   text-align: center;
 }
+.video-container iframe {
+	width: 100%;
+	max-width: 900px;
+	height: 500px;
+}
 
 .topnav a:hover {
   background-color: #ddd;
